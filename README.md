@@ -108,6 +108,9 @@ Com este Desafio WAR Estruturado , você praticará os fundamentos essenciais da
 Cada nível foca em um conjunto de habilidades:
 
 🟢 Novato : struct, vetor, entrada/saída
+
 🔵 Aventureiro : ponteiros, memória dinâmica, lógica de jogo
+
 🟣 Mestre : modularização, design limpo, sistema de missões
+
 🚀Boa sorte! Avance nos níveis e torne-se um mestre da programação estratégica!
