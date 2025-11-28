@@ -11,7 +11,6 @@
 // - Utilizar passagem por referencia (ponteiros) para modificar dados e
 //   passagem por valor/referencia constante (const) para apenas ler.
 // - Foco em: Design de software, modularizacao, const correctness, logica de jogo.
-//
 // ============================================================================
 
 // Inclusao das bibliotecas padrao necessarias para entrada/saida, alocacao de memoria, manipulacao de strings e tempo.
